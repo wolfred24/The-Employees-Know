@@ -1,0 +1,9 @@
+{
+  "name": "The_Employees_Know",
+  "version_number": "0.2.0",
+  "website_url": "https://github.com/wolfred24/The-Employees-Know",
+  "description": "Employees automatically use enabled property storage to supply their assigned stations and machines. Host-side, configurable, IL2CPP.",
+  "dependencies": [
+    "LavaGang-MelonLoader-0.7.3"
+  ]
+}

@@ -1,0 +1,13 @@
+bin/
+obj/
+dist/
+backup/
+.vs/
+.vscode/
+*.user
+*.suo
+*.pdb
+*.dll
+*.log
+*.zip
+UserData/
