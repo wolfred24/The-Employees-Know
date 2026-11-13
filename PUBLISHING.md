@@ -115,8 +115,7 @@ Suggested files:
 02-botanist-storage.png
 03-chemist-workflow.png
 04-handler-workflow.png
-05-config.png
-workflow.gif
+chemist-workflow.gif
 ```
 
 After adding them, update the README media section and re-create the release ZIP if the images are referenced by relative path. The current README uses the cover from GitHub and can be expanded with raw GitHub URLs for screenshots.

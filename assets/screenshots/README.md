@@ -6,7 +6,6 @@ Place final gameplay PNGs here. Suggested names:
 - `02-botanist-storage.png`
 - `03-chemist-workflow.png`
 - `04-handler-workflow.png`
-- `05-config.png`
 
 Use 1920x1080 or native resolution and avoid overlays from other mods where possible.
 

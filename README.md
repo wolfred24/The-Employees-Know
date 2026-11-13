@@ -8,6 +8,18 @@ This is a host-side, configurable, IL2CPP mod for Schedule I.
 
 ![The Employees Know cover](https://raw.githubusercontent.com/wolfred24/The-Employees-Know/main/assets/branding/cover-1280x720.png)
 
+## Media
+
+![Employees can take from this storage](https://raw.githubusercontent.com/wolfred24/The-Employees-Know/main/assets/screenshots/01-storage-toggle.png)
+
+![Botanist using an enabled storage](https://raw.githubusercontent.com/wolfred24/The-Employees-Know/main/assets/screenshots/02-botanist-storage.png)
+
+![Chemist using an enabled storage](https://raw.githubusercontent.com/wolfred24/The-Employees-Know/main/assets/screenshots/03-chemist-workflow.png)
+
+![Handler using an enabled storage](https://raw.githubusercontent.com/wolfred24/The-Employees-Know/main/assets/screenshots/04-handler-workflow.png)
+
+![Chemist workflow](https://raw.githubusercontent.com/wolfred24/The-Employees-Know/main/assets/gifs/chemist-workflow.gif)
+
 ## Features
 
 - **Shared storage access:** employees can use enabled storages on their property.

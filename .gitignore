@@ -11,3 +11,5 @@ backup/
 *.log
 *.zip
 UserData/
+
+*.mp4
