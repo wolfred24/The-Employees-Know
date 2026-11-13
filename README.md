@@ -2,7 +2,11 @@
 
 **Your workforce finally knows where everything is.**
 
-The Employees Know makes employees use the storage you have already built. Botanists, chemists, handlers and other workers can take what they need from enabled storages on their property instead of relying only on the vanilla supply locker.
+In the vanilla game, employees have no way of retrieving the supplies they need directly from your property's storage. This forces players to rely on Handlers to manually deliver ingredients and materials to every machine so that Chemists, Botanists, and other workers can do their jobs.
+
+This mod fixes that.
+
+Employees can now locate and retrieve the items they need from any enabled storage on your property, as long as the required items are available. No more manually hauling ingredients from storage to every workstation. Your employees can find their own supplies and get straight to work!
 
 This is a host-side, configurable, IL2CPP mod for Schedule I.
 
@@ -22,14 +26,14 @@ This is a host-side, configurable, IL2CPP mod for Schedule I.
 
 ## Features
 
-- **Shared storage access:** employees can use enabled storages on their property.
-- **Botanists:** soil, seeds, additives, spawn, drying racks and spawn stations.
-- **Chemists:** ingredients for chemistry stations, mixers, cauldrons and lab ovens.
-- **Handlers:** inputs for packaging stations and brick presses.
-- **Delivery vans:** temporary storage access while a van is parked at the property.
-- **Per-storage permission checkbox:** remove access from individual storages without changing vanilla.
-- **No artificial trip limits:** movement is limited by the game's real slot and stack capacity, not a fixed 10-item cap.
-- **Configurable:** every major behaviour can be disabled or adjusted.
+- **Property-wide storage access:** Employees can retrieve the supplies they need from any enabled storage on your property.
+- **Botanists:** Can retrieve soil, seeds, additives, and spawn from any available storage on your property to supply their pots, drying racks, and other equipment.
+- **Chemists:** Can retrieve ingredients from storage for use in chemistry stations, mixers, cauldrons, and lab ovens.
+- **Handlers:** Can retrieve materials needed for packaging stations and brick presses like jars and baggies.
+- **Delivery van storage:** Employees can access a delivery van's storage while it's parked on your property, retrieving the items they need to continue their work.
+- **Individual storage permissions:** Enable or disable employee access to each storage container independently, giving you full control over which storages they can use.
+- **No arbitrary carry limits:** Employees can transport as many items as their actual inventory slots and stack capacities allow, instead of being restricted by the vanilla 10-item limit.
+- **Fully configurable:** All major features and behaviors can be independently disabled or adjusted.
 
 ## Requirements
 
@@ -94,7 +98,6 @@ The configuration is created in `MelonPreferences.cfg` under the existing `[Smar
 
 - **Host-only:** the mod applies its logic on the host.
 - **IL2CPP only:** the current build is not compatible with the Mono/Alternate branch.
-- **Packaging stations:** packaging-slot automation is intentionally not included in this release. Packaging station behaviour remains vanilla.
 - **Game updates:** future Schedule I updates may change the Il2Cpp APIs used by the mod.
 
 ## Compatibility
